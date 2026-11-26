@@ -1,5 +1,6 @@
 {
   "name": "cpeakdot-readable-chat",
-  "version": "0.1.0",
-  "description": "Puts your messages in an amber box and tool calls in a dim grey box, so replies stand out."
+  "version": "0.2.0",
+  "types": "./types/index.d.ts",
+  "description": "Gold left bar on your messages, one dim line per tool call, replies held to 100 columns (Rosé Pine colours)."
 }

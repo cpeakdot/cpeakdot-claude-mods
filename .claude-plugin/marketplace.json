@@ -5,7 +5,7 @@
     {
       "name": "cpeakdot-readable-chat",
       "source": "./plugins/cpeakdot-readable-chat",
-      "description": "Puts your messages in an amber box and tool calls in a dim grey box, so replies stand out."
+      "description": "Gold left bar on your messages, one dim line per tool call, replies held to 100 columns (Rosé Pine colours)."
     }
   ]
 }
